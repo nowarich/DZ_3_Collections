@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13476a4c-31ef-428c-b455-e59697d32a28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ru/geekbains/DZ/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbains/DZ/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+            <state relative-caret-position="460">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1606753151966" expanded="true" signature="224:1116" ph="..." />
+                <element signature="e#588#605#0" expanded="true" />
+                <marker date="1606756722470" expanded="true" signature="222:1057" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/PhoneBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="50">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#170#191#0" expanded="true" />
                 <element signature="e#508#516#0" expanded="true" />
@@ -54,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java" />
       </list>
     </option>
   </component>
@@ -97,7 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606756568101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606756653472" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -210,17 +211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1606753151966" expanded="true" signature="224:1116" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -230,11 +220,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/PhoneBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="50">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#170#191#0" expanded="true" />
             <element signature="e#508#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/geekbains/DZ/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#588#605#0" expanded="true" />
+            <marker date="1606756722470" expanded="true" signature="222:1057" ph="..." />
           </folding>
         </state>
       </provider>

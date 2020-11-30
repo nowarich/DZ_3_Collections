@@ -60,5 +60,6 @@ public class Main {
 //        System.out.println(phoneBook. ("Петя"));
         System.out.println(phoneBook.toString());
         phoneBook.get("Петя");
+        // ГОТОВО
     }
 }
